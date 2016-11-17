@@ -1,0 +1,26 @@
+{
+  "name": "Oimo.js",
+  "version": "1.2.0",
+  "description": "Oimo.js is a lightweight 3d physics engine for javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lo-th/Oimo.js.git"
+  },
+  "keywords": [
+    "Oimo",
+    "Oimojs",
+    "physics",
+    "engine"
+  ],
+  "author": "",
+  "license": "The MIT License",
+  "bugs": {
+    "url": "https://github.com/lo-th/Oimo.js/issues"
+  },
+  "homepage": "https://github.com/lo-th/Oimo.js#readme",
+  "dependencies": {}
+}
